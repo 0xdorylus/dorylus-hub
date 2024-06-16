@@ -1387,3 +1387,13 @@
 2024-06-16 14:39:56,137 - INFO - Added job "login_stat_job" to job store "default"
 2024-06-16 14:39:56,137 - INFO - Scheduler started
 2024-06-16 14:40:29,213 - INFO - Scheduler has been shut down
+2024-06-16 14:47:02,053 - WARNING - Python-dotenv could not parse statement starting at line 62
+2024-06-16 14:47:03,953 - WARNING - Python-dotenv could not parse statement starting at line 62
+2024-06-16 14:47:03,963 - WARNING - Python-dotenv could not parse statement starting at line 62
+2024-06-16 14:47:04,464 - WARNING - Python-dotenv could not parse statement starting at line 62
+2024-06-16 14:47:05,556 - WARNING - Python-dotenv could not parse statement starting at line 62
+2024-06-16 14:47:05,686 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-16 14:47:05,687 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-16 14:47:05,687 - INFO - Scheduler started
+2024-06-16 14:48:05,036 - INFO - Scheduler has been shut down
+2024-06-16 14:48:07,831 - WARNING - Python-dotenv could not parse statement starting at line 62

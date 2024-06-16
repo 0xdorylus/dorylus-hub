@@ -159,7 +159,7 @@ async def new_follower_list(request_form:GeneralRequestModel, uid: str = Depends
     return await UserFollow.get_page(query=query, options=options, callback=callback_follower_list_item, is_async_callback=True)
 
 
-@router.post("/set_already_read_", response_model=GenericResponseModel, summary="设置已读")
+@router.post("/set_already_read", response_model=GenericResponseModel, summary="设置已读")
 async def set_already_read_(form: IDModel, uid: str = Depends(get_uid_by_token)):
 
     id = form.id
