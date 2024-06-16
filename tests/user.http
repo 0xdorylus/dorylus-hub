@@ -1,0 +1,28 @@
+### login with sign
+POST http://127.0.0.1:8000/auth/loginwithsign
+Content-Type: application/json
+
+{
+                "address": "0xc6e8dbbf0170f430fbf8f2abb9097fd47457709d",
+                "nonce": "nonceseq",
+                "msg": "Login in(Seq:212491)",
+                "sig": "0x567b526c4df29469aad99ab7e7b2fb648594aa07780230606dd578b62c5f191e103344ee20a9f27259c8e17ea8ffc97261f5bd29614920f780dde4515909e6041b",
+                "refcode": "",
+                "client_id": ""
+}
+
+### login with device
+POST http://127.0.0.1:8000/auth/login_with_device_id
+Content-Type: application/json
+
+{
+  "device_id": "0xc6e8dbbf0170f430fbf8f2abb9097fd47457709c",
+  "refcode": ""
+}
+
+
+### login out
+POST http://127.0.0.1:8000/auth/logout
+Content-Type: application/json
+x-auth: 50fcd8bda582cd54a0958d647bec4214ce7fe1914aa321ee2bedf8e31d3e1dd7
+

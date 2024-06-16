@@ -1,0 +1,1389 @@
+2024-01-11 14:50:17,858 - INFO - NumExpr defaulting to 8 threads.
+2024-01-11 14:50:18,377 - INFO - init db start
+2024-01-11 14:50:18,529 - INFO - init db done
+2024-01-11 14:52:31,271 - INFO - NumExpr defaulting to 8 threads.
+2024-01-11 14:52:31,757 - INFO - init db start
+2024-01-11 14:52:31,905 - INFO - init db done
+2024-01-11 14:56:27,300 - INFO - NumExpr defaulting to 8 threads.
+2024-01-11 14:56:27,802 - INFO - init db start
+2024-01-11 14:56:27,959 - INFO - init db done
+2024-01-11 15:22:36,730 - INFO - NumExpr defaulting to 8 threads.
+2024-01-11 15:22:37,404 - INFO - init db start
+2024-01-11 15:22:37,603 - INFO - init db done
+2024-01-11 15:22:37,608 - INFO - User is 01HKQMXB8MFZV650T9X75CZ5SS
+2024-01-11 15:22:37,609 - INFO - Agent is 01HKQMY8RYPMJ62ZBTHZPF6X3A
+2024-01-11 15:22:37,793 - INFO - channel is 01HKQMY8VZ7920V85203SR07Y2
+2024-01-15 14:49:21,611 - INFO - NumExpr defaulting to 8 threads.
+2024-01-15 14:49:23,740 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-01-15 14:49:23,740 - INFO - Added job "login_stat_job" to job store "default"
+2024-01-15 14:49:23,741 - INFO - Scheduler started
+2024-01-15 18:35:03,629 - INFO - Scheduler has been shut down
+2024-01-24 02:37:26,071 - INFO - NumExpr defaulting to 8 threads.
+2024-01-24 02:37:28,747 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-01-24 02:37:28,747 - INFO - Added job "login_stat_job" to job store "default"
+2024-01-24 02:37:28,747 - INFO - Scheduler started
+2024-01-24 02:39:12,722 - INFO - Scheduler has been shut down
+2024-01-24 02:39:20,822 - INFO - NumExpr defaulting to 8 threads.
+2024-01-24 02:39:22,851 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-01-24 02:39:22,852 - INFO - Added job "login_stat_job" to job store "default"
+2024-01-24 02:39:22,852 - INFO - Scheduler started
+2024-01-24 02:40:29,549 - INFO - Scheduler has been shut down
+2024-01-24 02:40:37,624 - INFO - NumExpr defaulting to 8 threads.
+2024-01-24 02:40:40,064 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-01-24 02:40:40,065 - INFO - Added job "login_stat_job" to job store "default"
+2024-01-24 02:40:40,065 - INFO - Scheduler started
+2024-01-24 02:41:53,191 - INFO - Scheduler has been shut down
+2024-01-24 02:42:37,053 - INFO - NumExpr defaulting to 8 threads.
+2024-01-24 02:42:39,181 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-01-24 02:42:39,182 - INFO - Added job "login_stat_job" to job store "default"
+2024-01-24 02:42:39,182 - INFO - Scheduler started
+2024-01-24 02:43:25,193 - INFO - NumExpr defaulting to 8 threads.
+2024-01-24 02:43:27,094 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-01-24 02:43:27,095 - INFO - Added job "login_stat_job" to job store "default"
+2024-01-24 02:43:27,095 - INFO - Scheduler started
+2024-01-24 02:44:06,244 - INFO - NumExpr defaulting to 8 threads.
+2024-01-24 02:44:12,495 - INFO - NumExpr defaulting to 8 threads.
+2024-01-24 02:44:14,397 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-01-24 02:44:14,398 - INFO - Added job "login_stat_job" to job store "default"
+2024-01-24 02:44:14,398 - INFO - Scheduler started
+2024-02-03 01:53:22,604 - INFO - NumExpr defaulting to 8 threads.
+2024-02-03 01:53:27,817 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-03 01:53:27,818 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-03 01:53:27,819 - INFO - Scheduler started
+2024-02-03 01:53:45,423 - INFO - Scheduler has been shut down
+2024-02-05 01:06:49,246 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:06:51,511 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:06:51,511 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:06:51,511 - INFO - Scheduler started
+2024-02-05 01:08:25,180 - INFO - Scheduler has been shut down
+2024-02-05 01:08:32,163 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:08:34,119 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:08:34,119 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:08:34,119 - INFO - Scheduler started
+2024-02-05 01:10:00,003 - INFO - Running job "login_stat_job (trigger: cron[hour='1', minute='10', second='0'], next run at: 2024-02-05 01:10:00 CST)" (scheduled at 2024-02-05 01:10:00+08:00)
+2024-02-05 01:10:00,006 - INFO - Job "login_stat_job (trigger: cron[hour='1', minute='10', second='0'], next run at: 2024-02-06 01:10:00 CST)" executed successfully
+2024-02-05 01:17:32,241 - INFO - Scheduler has been shut down
+2024-02-05 01:17:39,832 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:17:41,839 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:17:41,839 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:17:41,840 - INFO - Scheduler started
+2024-02-05 01:18:27,830 - INFO - Scheduler has been shut down
+2024-02-05 01:18:34,091 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:18:36,032 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:18:36,032 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:18:36,032 - INFO - Scheduler started
+2024-02-05 01:18:43,744 - INFO - Scheduler has been shut down
+2024-02-05 01:18:53,942 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:18:55,878 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:18:55,879 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:18:55,879 - INFO - Scheduler started
+2024-02-05 01:19:43,340 - INFO - Scheduler has been shut down
+2024-02-05 01:19:49,989 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:19:51,913 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:19:51,914 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:19:51,914 - INFO - Scheduler started
+2024-02-05 01:20:27,410 - INFO - Scheduler has been shut down
+2024-02-05 01:20:38,832 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:20:40,927 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:20:40,928 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:20:40,928 - INFO - Scheduler started
+2024-02-05 01:20:49,507 - INFO - Scheduler has been shut down
+2024-02-05 01:20:57,317 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:20:59,045 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:20:59,045 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:20:59,045 - INFO - Scheduler started
+2024-02-05 01:21:23,142 - INFO - Scheduler has been shut down
+2024-02-05 01:21:28,928 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:21:30,733 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:21:30,734 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:21:30,734 - INFO - Scheduler started
+2024-02-05 01:21:48,332 - INFO - Scheduler has been shut down
+2024-02-05 01:21:54,203 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:21:55,935 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:21:55,936 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:21:55,936 - INFO - Scheduler started
+2024-02-05 01:22:00,207 - INFO - Scheduler has been shut down
+2024-02-05 01:22:05,526 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:22:07,205 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:22:07,205 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:22:07,205 - INFO - Scheduler started
+2024-02-05 01:22:22,425 - INFO - Scheduler has been shut down
+2024-02-05 01:22:28,227 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:22:30,083 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:22:30,083 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:22:30,084 - INFO - Scheduler started
+2024-02-05 01:26:43,941 - INFO - Scheduler has been shut down
+2024-02-05 01:26:51,170 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:26:53,125 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:26:53,125 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:26:53,126 - INFO - Scheduler started
+2024-02-05 01:27:19,210 - INFO - Scheduler has been shut down
+2024-02-05 01:27:25,122 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:27:26,990 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:27:26,991 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:27:26,991 - INFO - Scheduler started
+2024-02-05 01:27:50,804 - INFO - Scheduler has been shut down
+2024-02-05 01:27:56,183 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:27:57,903 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:27:57,903 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:27:57,903 - INFO - Scheduler started
+2024-02-05 01:28:25,734 - INFO - Scheduler has been shut down
+2024-02-05 01:28:41,229 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:28:43,573 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:28:43,573 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:28:43,574 - INFO - Scheduler started
+2024-02-05 01:31:42,380 - INFO - Scheduler has been shut down
+2024-02-05 01:31:51,166 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:31:53,666 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:31:53,667 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:31:53,667 - INFO - Scheduler started
+2024-02-05 01:31:55,123 - INFO - Scheduler has been shut down
+2024-02-05 01:32:06,838 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:32:08,651 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:32:08,651 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:32:08,651 - INFO - Scheduler started
+2024-02-05 01:32:19,808 - INFO - Scheduler has been shut down
+2024-02-05 01:32:25,906 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:32:27,760 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:32:27,760 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:32:27,761 - INFO - Scheduler started
+2024-02-05 01:33:39,337 - INFO - Scheduler has been shut down
+2024-02-05 01:33:45,929 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:33:47,771 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:33:47,772 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:33:47,772 - INFO - Scheduler started
+2024-02-05 01:33:59,545 - INFO - Scheduler has been shut down
+2024-02-05 01:34:06,278 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:34:08,063 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:34:08,064 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:34:08,064 - INFO - Scheduler started
+2024-02-05 01:34:11,962 - INFO - Scheduler has been shut down
+2024-02-05 01:34:18,567 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:34:20,808 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:34:20,808 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:34:20,809 - INFO - Scheduler started
+2024-02-05 01:34:33,131 - INFO - Scheduler has been shut down
+2024-02-05 01:34:44,047 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:34:46,156 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:34:46,157 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:34:46,157 - INFO - Scheduler started
+2024-02-05 01:34:48,684 - INFO - Scheduler has been shut down
+2024-02-05 01:34:59,067 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:35:04,692 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:35:06,721 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:35:06,721 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:35:06,721 - INFO - Scheduler started
+2024-02-05 01:35:29,074 - INFO - Scheduler has been shut down
+2024-02-05 01:35:39,374 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:35:41,402 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:35:41,403 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:35:41,403 - INFO - Scheduler started
+2024-02-05 01:35:49,141 - INFO - Scheduler has been shut down
+2024-02-05 01:35:55,284 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:35:57,124 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:35:57,125 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:35:57,125 - INFO - Scheduler started
+2024-02-05 01:36:02,317 - INFO - Scheduler has been shut down
+2024-02-05 01:36:08,151 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:36:09,986 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:36:09,987 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:36:09,987 - INFO - Scheduler started
+2024-02-05 01:36:13,454 - INFO - Scheduler has been shut down
+2024-02-05 01:36:19,759 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:36:21,623 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:36:21,623 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:36:21,623 - INFO - Scheduler started
+2024-02-05 01:36:31,966 - INFO - Scheduler has been shut down
+2024-02-05 01:36:38,054 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:36:39,949 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:36:39,950 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:36:39,950 - INFO - Scheduler started
+2024-02-05 01:36:51,132 - INFO - Scheduler has been shut down
+2024-02-05 01:36:58,975 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:37:00,747 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:37:00,747 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:37:00,747 - INFO - Scheduler started
+2024-02-05 01:38:44,488 - INFO - Scheduler has been shut down
+2024-02-05 01:38:51,584 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:38:53,620 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:38:53,620 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:38:53,621 - INFO - Scheduler started
+2024-02-05 01:38:58,643 - INFO - Scheduler has been shut down
+2024-02-05 01:39:08,273 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:39:10,303 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:39:10,303 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:39:10,303 - INFO - Scheduler started
+2024-02-05 01:39:31,846 - INFO - Scheduler has been shut down
+2024-02-05 01:39:40,828 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:39:42,962 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:39:42,962 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:39:42,962 - INFO - Scheduler started
+2024-02-05 01:39:48,537 - INFO - Scheduler has been shut down
+2024-02-05 01:39:55,452 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:40:01,014 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:40:02,887 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:40:02,888 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:40:02,889 - INFO - Scheduler started
+2024-02-05 01:40:34,081 - INFO - Scheduler has been shut down
+2024-02-05 01:40:44,082 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:40:46,415 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:40:46,416 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:40:46,417 - INFO - Scheduler started
+2024-02-05 01:40:54,097 - INFO - Scheduler has been shut down
+2024-02-05 01:41:02,265 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:41:04,897 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:41:04,898 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:41:04,898 - INFO - Scheduler started
+2024-02-05 01:41:07,472 - INFO - Scheduler has been shut down
+2024-02-05 01:41:14,824 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:41:16,769 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:41:16,770 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:41:16,770 - INFO - Scheduler started
+2024-02-05 01:41:17,369 - INFO - Scheduler has been shut down
+2024-02-05 01:41:24,102 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:41:25,982 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:41:25,982 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:41:25,982 - INFO - Scheduler started
+2024-02-05 01:41:33,412 - INFO - Scheduler has been shut down
+2024-02-05 01:41:44,471 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:41:46,665 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:41:46,666 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:41:46,666 - INFO - Scheduler started
+2024-02-05 01:41:54,575 - INFO - Scheduler has been shut down
+2024-02-05 01:42:01,763 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 01:42:04,319 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 01:42:04,320 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 01:42:04,320 - INFO - Scheduler started
+2024-02-05 02:12:45,302 - INFO - Scheduler has been shut down
+2024-02-05 02:12:56,924 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:12:59,027 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:12:59,027 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:12:59,027 - INFO - Scheduler started
+2024-02-05 02:13:01,189 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:13:09,461 - INFO - Scheduler has been shut down
+2024-02-05 02:13:16,178 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:13:20,922 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:13:22,787 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:13:22,787 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:13:22,788 - INFO - Scheduler started
+2024-02-05 02:13:32,952 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:13:44,931 - INFO - Scheduler has been shut down
+2024-02-05 02:13:51,623 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:13:53,428 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:13:53,428 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:13:53,428 - INFO - Scheduler started
+2024-02-05 02:16:34,415 - INFO - Scheduler has been shut down
+2024-02-05 02:16:56,633 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:17:01,354 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:17:01,355 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:17:01,355 - INFO - Scheduler started
+2024-02-05 02:19:02,263 - INFO - Scheduler has been shut down
+2024-02-05 02:19:09,622 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:19:17,661 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:19:19,500 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:19:19,500 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:19:19,500 - INFO - Scheduler started
+2024-02-05 02:20:30,802 - INFO - Scheduler has been shut down
+2024-02-05 02:20:37,200 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:20:39,093 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:20:39,093 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:20:39,094 - INFO - Scheduler started
+2024-02-05 02:21:02,056 - INFO - Scheduler has been shut down
+2024-02-05 02:21:07,928 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:21:09,969 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:21:09,969 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:21:09,969 - INFO - Scheduler started
+2024-02-05 02:22:58,517 - INFO - Scheduler has been shut down
+2024-02-05 02:23:04,618 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:23:11,311 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:23:13,265 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:23:13,266 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:23:13,266 - INFO - Scheduler started
+2024-02-05 02:23:40,681 - INFO - Scheduler has been shut down
+2024-02-05 02:23:46,631 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:23:49,249 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:23:49,250 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:23:49,250 - INFO - Scheduler started
+2024-02-05 02:25:54,222 - INFO - Scheduler has been shut down
+2024-02-05 02:26:05,196 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:26:07,307 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:26:07,308 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:26:07,308 - INFO - Scheduler started
+2024-02-05 02:26:10,042 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:26:31,863 - INFO - Scheduler has been shut down
+2024-02-05 02:26:42,547 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:26:44,397 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:26:44,398 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:26:44,398 - INFO - Scheduler started
+2024-02-05 02:26:53,026 - INFO - Scheduler has been shut down
+2024-02-05 02:26:59,013 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:26:59,087 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:27:01,061 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:27:01,062 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:27:01,062 - INFO - Scheduler started
+2024-02-05 02:27:34,792 - INFO - Scheduler has been shut down
+2024-02-05 02:27:40,971 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:27:43,066 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:27:43,066 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:27:43,066 - INFO - Scheduler started
+2024-02-05 02:27:44,623 - INFO - Scheduler has been shut down
+2024-02-05 02:27:51,006 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:27:53,267 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:27:53,268 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:27:53,268 - INFO - Scheduler started
+2024-02-05 02:31:28,490 - INFO - Scheduler has been shut down
+2024-02-05 02:31:36,991 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:31:39,164 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:31:39,165 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:31:39,165 - INFO - Scheduler started
+2024-02-05 02:32:21,118 - INFO - Scheduler has been shut down
+2024-02-05 02:32:27,349 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:32:29,359 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:32:29,360 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:32:29,360 - INFO - Scheduler started
+2024-02-05 02:34:19,396 - INFO - Scheduler has been shut down
+2024-02-05 02:34:29,206 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:34:31,168 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:34:31,168 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:34:31,168 - INFO - Scheduler started
+2024-02-05 02:35:13,855 - INFO - Scheduler has been shut down
+2024-02-05 02:35:20,330 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:35:22,494 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:35:22,494 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:35:22,494 - INFO - Scheduler started
+2024-02-05 02:35:49,733 - INFO - Scheduler has been shut down
+2024-02-05 02:35:56,333 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:35:58,177 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:35:58,178 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:35:58,178 - INFO - Scheduler started
+2024-02-05 02:35:59,119 - INFO - Scheduler has been shut down
+2024-02-05 02:36:06,810 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:36:08,714 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:36:08,714 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:36:08,715 - INFO - Scheduler started
+2024-02-05 02:36:14,999 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:36:17,194 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:36:17,195 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:36:17,195 - INFO - Scheduler started
+2024-02-05 02:40:23,227 - INFO - Scheduler has been shut down
+2024-02-05 02:40:30,601 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:40:32,701 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:40:32,701 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:40:32,701 - INFO - Scheduler started
+2024-02-05 02:41:50,646 - INFO - Scheduler has been shut down
+2024-02-05 02:41:57,521 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:41:59,474 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:41:59,474 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:41:59,474 - INFO - Scheduler started
+2024-02-05 02:42:01,695 - INFO - Scheduler has been shut down
+2024-02-05 02:42:07,952 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:42:09,867 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:42:09,868 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:42:09,868 - INFO - Scheduler started
+2024-02-05 02:42:30,851 - INFO - Scheduler has been shut down
+2024-02-05 02:42:37,224 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:42:39,731 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:42:39,731 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:42:39,732 - INFO - Scheduler started
+2024-02-05 02:42:43,762 - INFO - Scheduler has been shut down
+2024-02-05 02:42:50,157 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:42:56,125 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:42:58,472 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:42:58,472 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:42:58,472 - INFO - Scheduler started
+2024-02-05 02:43:04,187 - INFO - Scheduler has been shut down
+2024-02-05 02:43:10,089 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:43:12,001 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:43:12,001 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:43:12,001 - INFO - Scheduler started
+2024-02-05 02:44:13,302 - INFO - Scheduler has been shut down
+2024-02-05 02:44:19,450 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:44:21,313 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:44:21,313 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:44:21,313 - INFO - Scheduler started
+2024-02-05 02:45:11,205 - INFO - Scheduler has been shut down
+2024-02-05 02:45:38,710 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 02:45:40,706 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 02:45:40,706 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 02:45:40,706 - INFO - Scheduler started
+2024-02-05 02:45:58,819 - INFO - Scheduler has been shut down
+2024-02-05 03:09:34,314 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:09:36,845 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:09:36,846 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:09:36,846 - INFO - Scheduler started
+2024-02-05 03:10:44,062 - INFO - Scheduler has been shut down
+2024-02-05 03:10:52,113 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:10:54,414 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:10:54,414 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:10:54,414 - INFO - Scheduler started
+2024-02-05 03:12:00,597 - INFO - Scheduler has been shut down
+2024-02-05 03:12:07,032 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:12:08,880 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:12:08,881 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:12:08,881 - INFO - Scheduler started
+2024-02-05 03:15:37,724 - INFO - Scheduler has been shut down
+2024-02-05 03:15:44,018 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:15:46,021 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:15:46,021 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:15:46,022 - INFO - Scheduler started
+2024-02-05 03:16:00,592 - INFO - Scheduler has been shut down
+2024-02-05 03:16:06,587 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:16:08,389 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:16:08,390 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:16:08,390 - INFO - Scheduler started
+2024-02-05 03:16:53,635 - INFO - Scheduler has been shut down
+2024-02-05 03:17:00,656 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:17:02,592 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:17:02,593 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:17:02,593 - INFO - Scheduler started
+2024-02-05 03:17:44,804 - INFO - Scheduler has been shut down
+2024-02-05 03:17:51,076 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:17:52,948 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:17:52,949 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:17:52,949 - INFO - Scheduler started
+2024-02-05 03:24:18,815 - INFO - Scheduler has been shut down
+2024-02-05 03:24:26,253 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:24:28,396 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:24:28,397 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:24:28,397 - INFO - Scheduler started
+2024-02-05 03:24:35,127 - INFO - Scheduler has been shut down
+2024-02-05 03:24:42,335 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:24:44,172 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:24:44,173 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:24:44,173 - INFO - Scheduler started
+2024-02-05 03:25:40,513 - INFO - Scheduler has been shut down
+2024-02-05 03:25:46,689 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:25:48,471 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:25:48,472 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:25:48,472 - INFO - Scheduler started
+2024-02-05 03:26:05,667 - INFO - Scheduler has been shut down
+2024-02-05 03:26:11,581 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:26:13,388 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:26:13,389 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:26:13,389 - INFO - Scheduler started
+2024-02-05 03:26:35,993 - INFO - Scheduler has been shut down
+2024-02-05 03:26:42,116 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:26:43,885 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:26:43,886 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:26:43,886 - INFO - Scheduler started
+2024-02-05 03:27:37,268 - INFO - Scheduler has been shut down
+2024-02-05 03:27:43,343 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:27:45,159 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:27:45,159 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:27:45,160 - INFO - Scheduler started
+2024-02-05 03:30:58,684 - INFO - Scheduler has been shut down
+2024-02-05 03:31:07,264 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:31:09,532 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:31:09,533 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:31:09,533 - INFO - Scheduler started
+2024-02-05 03:32:32,227 - INFO - Scheduler has been shut down
+2024-02-05 03:32:38,453 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:32:40,439 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:32:40,440 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:32:40,440 - INFO - Scheduler started
+2024-02-05 03:32:41,179 - INFO - Scheduler has been shut down
+2024-02-05 03:32:47,724 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:32:49,600 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:32:49,600 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:32:49,600 - INFO - Scheduler started
+2024-02-05 03:34:28,216 - INFO - Scheduler has been shut down
+2024-02-05 03:34:35,233 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:34:56,157 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:40:46,987 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:41:03,993 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:41:30,304 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:43:51,362 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:43:53,757 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:43:53,758 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:43:53,758 - INFO - Scheduler started
+2024-02-05 03:44:18,186 - INFO - Scheduler has been shut down
+2024-02-05 03:44:25,250 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:44:27,285 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:44:27,286 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:44:27,286 - INFO - Scheduler started
+2024-02-05 03:50:28,933 - INFO - Scheduler has been shut down
+2024-02-05 03:50:36,813 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:50:38,961 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:50:38,961 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:50:38,962 - INFO - Scheduler started
+2024-02-05 03:50:55,353 - INFO - Scheduler has been shut down
+2024-02-05 03:51:01,331 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:51:03,389 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:51:03,389 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:51:03,389 - INFO - Scheduler started
+2024-02-05 03:52:36,278 - INFO - Scheduler has been shut down
+2024-02-05 03:52:42,729 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:52:44,525 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:52:44,526 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:52:44,526 - INFO - Scheduler started
+2024-02-05 03:52:57,572 - INFO - Scheduler has been shut down
+2024-02-05 03:53:03,628 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:53:05,431 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:53:05,431 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:53:05,431 - INFO - Scheduler started
+2024-02-05 03:53:11,845 - INFO - Scheduler has been shut down
+2024-02-05 03:53:17,950 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:53:19,761 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:53:19,761 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:53:19,761 - INFO - Scheduler started
+2024-02-05 03:53:51,979 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:53:53,795 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:53:53,795 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:53:53,795 - INFO - Scheduler started
+2024-02-05 03:54:09,712 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:55:03,280 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:55:11,294 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:55:27,368 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:55:38,368 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:56:09,742 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:56:17,851 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:56:34,603 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:56:43,762 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:56:45,586 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:56:45,587 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:56:45,587 - INFO - Scheduler started
+2024-02-05 03:58:34,371 - INFO - Scheduler has been shut down
+2024-02-05 03:58:43,863 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:58:46,035 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:58:46,035 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:58:46,035 - INFO - Scheduler started
+2024-02-05 03:59:37,211 - INFO - Scheduler has been shut down
+2024-02-05 03:59:43,761 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 03:59:46,037 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 03:59:46,037 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 03:59:46,037 - INFO - Scheduler started
+2024-02-05 04:01:08,734 - INFO - Scheduler has been shut down
+2024-02-05 04:01:20,111 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 04:01:22,246 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 04:01:22,246 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 04:01:22,247 - INFO - Scheduler started
+2024-02-05 04:01:32,430 - INFO - Scheduler has been shut down
+2024-02-05 04:01:42,016 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 04:01:44,037 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 04:01:44,038 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 04:01:44,038 - INFO - Scheduler started
+2024-02-05 04:05:42,082 - INFO - Scheduler has been shut down
+2024-02-05 04:05:49,184 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 04:05:51,447 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 04:05:51,447 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 04:05:51,447 - INFO - Scheduler started
+2024-02-05 04:05:57,154 - INFO - Scheduler has been shut down
+2024-02-05 04:06:03,813 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 04:06:05,834 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 04:06:05,834 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 04:06:05,835 - INFO - Scheduler started
+2024-02-05 04:08:08,195 - INFO - Scheduler has been shut down
+2024-02-05 04:08:21,310 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 04:08:23,487 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 04:08:23,487 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 04:08:23,487 - INFO - Scheduler started
+2024-02-05 04:08:48,054 - INFO - Scheduler has been shut down
+2024-02-05 04:08:55,127 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 04:08:57,315 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 04:08:57,316 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 04:08:57,316 - INFO - Scheduler started
+2024-02-05 04:10:24,684 - INFO - Scheduler has been shut down
+2024-02-05 04:10:32,052 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 04:10:34,153 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 04:10:34,154 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 04:10:34,154 - INFO - Scheduler started
+2024-02-05 04:10:39,909 - INFO - Scheduler has been shut down
+2024-02-05 04:10:46,652 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 04:10:48,946 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 04:10:48,947 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 04:10:48,947 - INFO - Scheduler started
+2024-02-05 04:14:34,503 - INFO - Scheduler has been shut down
+2024-02-05 04:14:41,807 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 04:14:43,994 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 04:14:43,995 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 04:14:43,995 - INFO - Scheduler started
+2024-02-05 04:17:45,746 - INFO - Scheduler has been shut down
+2024-02-05 04:17:52,930 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 04:17:55,538 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 04:17:55,538 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 04:17:55,539 - INFO - Scheduler started
+2024-02-05 04:19:33,027 - INFO - Scheduler has been shut down
+2024-02-05 04:19:39,214 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 04:19:41,155 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 04:19:41,156 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 04:19:41,156 - INFO - Scheduler started
+2024-02-05 04:20:42,155 - INFO - Scheduler has been shut down
+2024-02-05 04:20:48,322 - INFO - NumExpr defaulting to 8 threads.
+2024-02-05 04:20:50,651 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-05 04:20:50,652 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-05 04:20:50,652 - INFO - Scheduler started
+2024-02-13 00:37:06,500 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-13 00:37:20,725 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-13 00:37:25,178 - INFO - NumExpr defaulting to 8 threads.
+2024-02-13 00:37:25,922 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-13 00:37:26,070 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-13 00:37:27,528 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-13 00:37:27,553 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-13 00:37:27,767 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-13 00:37:27,768 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-13 00:37:27,769 - INFO - Scheduler started
+2024-02-13 01:10:00,004 - INFO - Running job "login_stat_job (trigger: cron[hour='1', minute='10', second='0'], next run at: 2024-02-13 01:10:00 CST)" (scheduled at 2024-02-13 01:10:00+08:00)
+2024-02-13 01:10:00,012 - INFO - Job "login_stat_job (trigger: cron[hour='1', minute='10', second='0'], next run at: 2024-02-14 01:10:00 CST)" executed successfully
+2024-02-15 14:01:40,491 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-15 14:01:58,199 - INFO - NumExpr defaulting to 8 threads.
+2024-02-15 14:01:58,822 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-15 14:01:58,960 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-15 14:02:00,099 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-15 14:02:00,120 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-15 14:02:00,301 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-15 14:02:00,301 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-15 14:02:00,301 - INFO - Scheduler started
+2024-02-15 14:14:55,699 - ERROR - logout error,no token
+2024-02-15 14:14:55,702 - ERROR - logout error,no token
+2024-02-15 14:14:55,705 - ERROR - logout error,no token
+2024-02-15 14:14:55,731 - ERROR - logout error,no token
+2024-02-15 14:15:12,139 - ERROR - logout error,no token
+2024-02-15 14:15:12,140 - ERROR - logout error,no token
+2024-02-15 14:15:12,146 - ERROR - logout error,no token
+2024-02-15 14:15:12,155 - ERROR - logout error,no token
+2024-02-15 15:00:43,419 - ERROR - logout error,no token
+2024-02-16 10:24:16,672 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-16 10:24:21,166 - INFO - NumExpr defaulting to 8 threads.
+2024-02-16 10:24:21,703 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-16 10:24:21,827 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-16 10:24:22,972 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-16 10:24:22,995 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-16 10:24:23,134 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-16 10:24:23,135 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-16 10:24:23,135 - INFO - Scheduler started
+2024-02-16 10:24:48,364 - ERROR - logout error,no token
+2024-02-16 10:24:48,369 - ERROR - logout error,no token
+2024-02-16 10:24:48,371 - ERROR - logout error,no token
+2024-02-16 10:24:48,373 - ERROR - logout error,no token
+2024-02-16 10:28:57,430 - ERROR - logout error,no token
+2024-02-16 10:29:05,095 - ERROR - logout error,no token
+2024-02-16 10:29:05,096 - ERROR - logout error,no token
+2024-02-16 10:29:06,989 - INFO - user stat created
+2024-02-16 10:29:07,008 - INFO - subscribe_agent uid %s %s 
+2024-02-16 10:29:07,020 - INFO - subscribe_agent uid %s %s 
+2024-02-16 10:29:07,059 - INFO - create user with sign success
+2024-02-16 10:29:07,060 - INFO - create_access_token :64d559e19596e5d4bf52f44ed65ce26cdac23ee24458ecf062bb920c98cd78ad 
+2024-02-19 17:32:30,455 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-19 17:32:35,195 - INFO - NumExpr defaulting to 8 threads.
+2024-02-19 17:32:35,889 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-19 17:32:36,074 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-19 17:32:37,229 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-19 17:32:37,254 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-02-19 17:32:37,426 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-02-19 17:32:37,427 - INFO - Added job "login_stat_job" to job store "default"
+2024-02-19 17:32:37,427 - INFO - Scheduler started
+2024-03-01 02:20:45,927 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-03-01 02:20:55,803 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-03-01 02:21:25,885 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-03-01 02:21:27,788 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-03-01 02:21:29,197 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-03-01 02:21:29,453 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-03-01 02:21:30,805 - WARNING - Python-dotenv could not parse statement starting at line 67
+2024-03-01 02:21:30,970 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-01 02:21:30,970 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-01 02:21:30,971 - INFO - Scheduler started
+2024-03-01 02:23:36,216 - INFO - Scheduler has been shut down
+2024-03-01 02:23:39,136 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:23:41,174 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:23:42,716 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:23:42,997 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:23:44,122 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:23:44,243 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-01 02:23:44,243 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-01 02:23:44,243 - INFO - Scheduler started
+2024-03-01 02:26:52,420 - INFO - Scheduler has been shut down
+2024-03-01 02:26:54,993 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:26:56,688 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:26:59,322 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:27:00,950 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:27:02,088 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:27:02,318 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:27:03,390 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:27:03,512 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-01 02:27:03,513 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-01 02:27:03,513 - INFO - Scheduler started
+2024-03-01 02:27:14,460 - INFO - Scheduler has been shut down
+2024-03-01 02:27:17,906 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:27:19,571 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:27:20,819 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:27:21,061 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:27:22,095 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:27:22,207 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-01 02:27:22,208 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-01 02:27:22,208 - INFO - Scheduler started
+2024-03-01 02:27:29,669 - INFO - Scheduler has been shut down
+2024-03-01 02:27:32,357 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:27:34,022 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:27:35,140 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:27:35,366 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:27:36,377 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:27:36,491 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-01 02:27:36,491 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-01 02:27:36,492 - INFO - Scheduler started
+2024-03-01 02:28:15,805 - INFO - Scheduler has been shut down
+2024-03-01 02:28:18,615 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:28:20,303 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:28:21,501 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:28:21,747 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:28:22,810 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:28:22,930 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-01 02:28:22,930 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-01 02:28:22,930 - INFO - Scheduler started
+2024-03-01 02:32:50,364 - INFO - Scheduler has been shut down
+2024-03-01 02:32:52,975 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:32:54,633 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:32:55,837 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:32:56,125 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:32:57,280 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:32:57,408 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-01 02:32:57,408 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-01 02:32:57,408 - INFO - Scheduler started
+2024-03-01 02:34:24,056 - INFO - Scheduler has been shut down
+2024-03-01 02:34:26,881 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:34:29,077 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:34:30,307 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:34:30,553 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:34:31,647 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:34:31,767 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-01 02:34:31,768 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-01 02:34:31,768 - INFO - Scheduler started
+2024-03-01 02:36:06,279 - INFO - Scheduler has been shut down
+2024-03-01 02:36:09,313 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:36:11,518 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:36:14,964 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:36:16,682 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:36:17,889 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:36:18,133 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:36:19,244 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-01 02:36:19,374 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-01 02:36:19,375 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-01 02:36:19,375 - INFO - Scheduler started
+2024-03-01 02:39:25,904 - INFO - Scheduler has been shut down
+2024-03-03 01:40:19,810 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:40:23,364 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:40:25,502 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:40:25,769 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:40:27,104 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:40:27,358 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 01:40:27,358 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 01:40:27,358 - INFO - Scheduler started
+2024-03-03 01:42:37,289 - INFO - Scheduler has been shut down
+2024-03-03 01:42:40,475 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:42:42,432 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:42:43,877 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:42:44,139 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:42:45,315 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:42:45,449 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 01:42:45,450 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 01:42:45,450 - INFO - Scheduler started
+2024-03-03 01:43:25,719 - INFO - Scheduler has been shut down
+2024-03-03 01:43:29,953 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:43:31,905 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:43:33,406 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:43:33,671 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:43:34,876 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:43:35,016 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 01:43:35,016 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 01:43:35,017 - INFO - Scheduler started
+2024-03-03 01:44:20,614 - INFO - Scheduler has been shut down
+2024-03-03 01:44:23,675 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:44:25,664 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:44:27,184 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:44:27,451 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:44:28,700 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:44:28,859 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 01:44:28,860 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 01:44:28,860 - INFO - Scheduler started
+2024-03-03 01:44:30,898 - INFO - Scheduler has been shut down
+2024-03-03 01:44:36,988 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:44:39,844 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:44:41,673 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:44:41,922 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:44:43,189 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:44:43,334 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 01:44:43,334 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 01:44:43,334 - INFO - Scheduler started
+2024-03-03 01:44:46,236 - INFO - Scheduler has been shut down
+2024-03-03 01:44:48,848 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:44:50,564 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:44:51,768 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:44:52,030 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:44:53,130 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:44:53,252 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 01:44:53,253 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 01:44:53,253 - INFO - Scheduler started
+2024-03-03 01:45:05,895 - INFO - Scheduler has been shut down
+2024-03-03 01:45:08,575 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:45:10,319 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:45:11,530 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:45:11,786 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:45:12,925 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:45:13,046 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 01:45:13,046 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 01:45:13,046 - INFO - Scheduler started
+2024-03-03 01:45:31,479 - INFO - Scheduler has been shut down
+2024-03-03 01:45:34,675 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:45:37,713 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:45:42,100 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:45:43,903 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:45:45,159 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:45:45,420 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:45:46,667 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:45:46,804 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 01:45:46,804 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 01:45:46,804 - INFO - Scheduler started
+2024-03-03 01:46:24,024 - INFO - Scheduler has been shut down
+2024-03-03 01:46:27,860 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:46:30,721 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:46:33,514 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:46:36,997 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:46:38,856 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:46:40,233 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:46:40,507 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:46:41,703 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:46:41,843 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 01:46:41,843 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 01:46:41,843 - INFO - Scheduler started
+2024-03-03 01:46:56,873 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:46:59,835 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:47:01,783 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:47:02,991 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:47:03,243 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:47:04,400 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:47:04,537 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 01:47:04,537 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 01:47:04,538 - INFO - Scheduler started
+2024-03-03 01:47:20,616 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:47:22,846 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:47:24,193 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:47:24,499 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:47:25,763 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:47:25,898 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 01:47:25,899 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 01:47:25,899 - INFO - Scheduler started
+2024-03-03 01:48:04,741 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:48:07,245 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:48:09,579 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:48:11,458 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:48:12,829 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:48:13,110 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:50:26,929 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:50:29,175 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:50:30,593 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:50:30,870 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:50:32,287 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:50:32,476 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 01:50:32,477 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 01:50:32,477 - INFO - Scheduler started
+2024-03-03 01:50:41,189 - INFO - Scheduler has been shut down
+2024-03-03 01:50:44,225 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:50:47,602 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:50:48,906 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:50:49,590 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:50:51,962 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:50:54,207 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:50:55,600 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:50:55,859 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:50:57,380 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:50:57,521 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 01:50:57,522 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 01:50:57,522 - INFO - Scheduler started
+2024-03-03 01:51:04,935 - INFO - Scheduler has been shut down
+2024-03-03 01:51:07,677 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:51:09,574 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:51:10,932 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:51:11,197 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:51:12,467 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:51:12,605 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 01:51:12,606 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 01:51:12,606 - INFO - Scheduler started
+2024-03-03 01:51:35,664 - INFO - Scheduler has been shut down
+2024-03-03 01:51:39,916 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:51:41,679 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:51:42,956 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:51:43,231 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:51:44,474 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:51:44,609 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 01:51:44,609 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 01:51:44,609 - INFO - Scheduler started
+2024-03-03 01:51:54,305 - INFO - Scheduler has been shut down
+2024-03-03 01:51:56,881 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:51:58,588 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:51:59,785 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:52:00,041 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:52:01,148 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 01:52:01,275 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 01:52:01,275 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 01:52:01,276 - INFO - Scheduler started
+2024-03-03 10:42:55,262 - INFO - Scheduler has been shut down
+2024-03-03 10:42:58,475 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:43:00,303 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:43:01,669 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:43:01,916 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:43:03,221 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:43:03,415 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 10:43:03,416 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 10:43:03,416 - INFO - Scheduler started
+2024-03-03 10:43:47,482 - INFO - Scheduler has been shut down
+2024-03-03 10:43:50,008 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:43:52,517 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:43:54,072 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:43:55,152 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:43:55,379 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:43:56,377 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:43:56,484 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 10:43:56,484 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 10:43:56,484 - INFO - Scheduler started
+2024-03-03 10:44:25,626 - INFO - Scheduler has been shut down
+2024-03-03 10:44:28,193 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:44:29,731 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:44:30,847 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:44:31,077 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:44:32,081 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:44:32,185 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 10:44:32,185 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 10:44:32,185 - INFO - Scheduler started
+2024-03-03 10:46:14,426 - INFO - Scheduler has been shut down
+2024-03-03 10:46:16,974 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:46:18,530 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:46:19,603 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:46:19,827 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:46:20,856 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:46:20,966 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 10:46:20,966 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 10:46:20,966 - INFO - Scheduler started
+2024-03-03 10:46:57,143 - INFO - Scheduler has been shut down
+2024-03-03 10:46:59,655 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:47:01,166 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:47:02,236 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:47:02,454 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:47:03,433 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:47:03,535 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 10:47:03,535 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 10:47:03,535 - INFO - Scheduler started
+2024-03-03 10:50:02,515 - INFO - Scheduler has been shut down
+2024-03-03 10:50:05,415 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:50:07,322 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:50:08,675 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:50:08,912 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:50:10,274 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:50:10,431 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 10:50:10,431 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 10:50:10,431 - INFO - Scheduler started
+2024-03-03 10:50:20,657 - INFO - Scheduler has been shut down
+2024-03-03 10:50:23,241 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:50:24,855 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:50:25,917 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:50:26,143 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:50:27,156 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:50:27,260 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 10:50:27,261 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 10:50:27,261 - INFO - Scheduler started
+2024-03-03 10:54:00,494 - INFO - Scheduler has been shut down
+2024-03-03 10:54:03,623 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:54:05,950 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:54:07,969 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:54:09,518 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:54:10,608 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:54:10,836 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:54:11,830 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:54:11,939 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 10:54:11,940 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 10:54:11,940 - INFO - Scheduler started
+2024-03-03 10:58:24,423 - INFO - Scheduler has been shut down
+2024-03-03 10:58:27,276 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:58:29,079 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:58:30,411 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:58:30,641 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:58:31,793 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:58:31,932 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 10:58:31,932 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 10:58:31,932 - INFO - Scheduler started
+2024-03-03 10:58:51,510 - INFO - Scheduler has been shut down
+2024-03-03 10:58:54,353 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:58:56,216 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:58:57,668 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:58:57,903 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:58:59,087 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:58:59,208 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 10:58:59,209 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 10:58:59,209 - INFO - Scheduler started
+2024-03-03 10:59:14,684 - INFO - Scheduler has been shut down
+2024-03-03 10:59:17,357 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:59:19,171 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:59:20,497 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:59:20,732 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:59:21,796 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:59:21,946 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 10:59:21,947 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 10:59:21,947 - INFO - Scheduler started
+2024-03-03 10:59:31,041 - INFO - Scheduler has been shut down
+2024-03-03 10:59:33,833 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:59:35,669 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:59:37,862 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:59:38,138 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:59:39,233 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 10:59:39,414 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 10:59:39,415 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 10:59:39,415 - INFO - Scheduler started
+2024-03-03 11:00:48,325 - INFO - Scheduler has been shut down
+2024-03-03 11:00:51,412 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:00:53,239 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:00:54,588 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:00:54,825 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:00:55,902 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:00:56,021 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 11:00:56,021 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 11:00:56,021 - INFO - Scheduler started
+2024-03-03 11:01:57,583 - INFO - Scheduler has been shut down
+2024-03-03 11:02:01,285 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:02:02,924 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:02:04,072 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:02:04,335 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:02:05,539 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:02:05,659 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 11:02:05,659 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 11:02:05,660 - INFO - Scheduler started
+2024-03-03 11:02:07,902 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:02:09,688 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:02:10,846 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:02:11,081 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:02:12,097 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:02:12,200 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 11:02:12,201 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 11:02:12,201 - INFO - Scheduler started
+2024-03-03 11:02:29,465 - INFO - Scheduler has been shut down
+2024-03-03 11:02:31,908 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:02:33,619 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:02:34,712 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:02:34,937 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:02:35,982 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:02:36,090 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 11:02:36,090 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 11:02:36,090 - INFO - Scheduler started
+2024-03-03 11:07:22,982 - INFO - Scheduler has been shut down
+2024-03-03 11:07:25,383 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:07:27,162 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:07:30,369 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:07:32,421 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:07:33,544 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:07:35,054 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:07:36,556 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:07:37,604 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:07:37,829 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:07:38,890 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:07:39,009 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 11:07:39,009 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 11:07:39,009 - INFO - Scheduler started
+2024-03-03 11:07:45,178 - INFO - Scheduler has been shut down
+2024-03-03 11:07:47,701 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:07:49,241 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:07:50,352 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:07:50,579 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:07:52,121 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:07:52,233 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 11:07:52,234 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 11:07:52,234 - INFO - Scheduler started
+2024-03-03 11:07:56,022 - INFO - Scheduler has been shut down
+2024-03-03 11:07:58,427 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:07:59,926 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:08:00,994 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:08:01,225 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:08:02,251 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:08:02,359 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 11:08:02,360 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 11:08:02,360 - INFO - Scheduler started
+2024-03-03 11:08:08,166 - INFO - Scheduler has been shut down
+2024-03-03 11:08:10,400 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:08:11,955 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:08:13,009 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:08:13,227 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:08:14,206 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:08:14,316 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 11:08:14,317 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 11:08:14,317 - INFO - Scheduler started
+2024-03-03 11:15:24,632 - INFO - Scheduler has been shut down
+2024-03-03 11:15:28,005 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:15:29,914 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:15:31,436 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:15:31,683 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:15:33,004 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:15:33,191 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 11:15:33,191 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 11:15:33,191 - INFO - Scheduler started
+2024-03-03 11:16:09,042 - INFO - Scheduler has been shut down
+2024-03-03 11:16:12,876 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:16:15,986 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:16:17,609 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:16:17,853 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:16:18,965 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:16:19,087 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 11:16:19,087 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 11:16:19,087 - INFO - Scheduler started
+2024-03-03 11:16:30,729 - INFO - Scheduler has been shut down
+2024-03-03 11:16:33,677 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:16:35,539 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:16:36,770 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:16:37,022 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:16:38,119 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:16:38,253 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 11:16:38,254 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 11:16:38,254 - INFO - Scheduler started
+2024-03-03 11:17:09,561 - INFO - Scheduler has been shut down
+2024-03-03 11:17:12,894 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:17:14,829 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:17:16,016 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:17:16,255 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:17:17,317 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:17:17,434 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 11:17:17,435 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 11:17:17,435 - INFO - Scheduler started
+2024-03-03 11:17:24,039 - INFO - Scheduler has been shut down
+2024-03-03 11:17:27,277 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:17:28,978 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:17:30,330 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:17:30,579 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:17:32,449 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:17:34,722 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:17:36,983 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:17:38,384 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:17:38,686 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:17:40,268 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:17:40,494 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 11:17:40,494 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 11:17:40,494 - INFO - Scheduler started
+2024-03-03 11:18:14,083 - INFO - Scheduler has been shut down
+2024-03-03 11:18:16,687 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:18:18,285 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:18:19,423 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:18:19,651 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:18:20,722 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:18:20,840 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 11:18:20,840 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 11:18:20,840 - INFO - Scheduler started
+2024-03-03 11:18:23,447 - INFO - Scheduler has been shut down
+2024-03-03 11:18:26,574 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:18:28,278 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:18:29,476 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:18:29,721 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:18:30,817 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:18:30,929 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 11:18:30,930 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 11:18:30,930 - INFO - Scheduler started
+2024-03-03 11:18:38,084 - INFO - Scheduler has been shut down
+2024-03-03 11:18:41,418 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:18:43,057 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:18:44,176 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:18:44,410 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:18:45,443 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-03-03 11:18:45,552 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-03-03 11:18:45,552 - INFO - Added job "login_stat_job" to job store "default"
+2024-03-03 11:18:45,552 - INFO - Scheduler started
+2024-03-04 01:14:43,194 - WARNING - Run time of job "login_stat_job (trigger: cron[hour='1', minute='10', second='0'], next run at: 2024-03-05 01:10:00 CST)" was missed by 0:04:43.186059
+2024-06-12 12:44:08,757 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:44:11,317 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:44:11,331 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:44:12,151 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:44:13,466 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:44:13,642 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-12 12:44:13,642 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-12 12:44:13,642 - INFO - Scheduler started
+2024-06-12 12:48:35,639 - INFO - Scheduler has been shut down
+2024-06-12 12:48:38,802 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:48:40,992 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:48:41,002 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:48:41,614 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:48:43,003 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:48:43,176 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-12 12:48:43,177 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-12 12:48:43,177 - INFO - Scheduler started
+2024-06-12 12:48:47,141 - INFO - Scheduler has been shut down
+2024-06-12 12:48:50,161 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:48:51,977 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:48:51,988 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:48:52,554 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:48:53,854 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:48:53,991 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-12 12:48:53,992 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-12 12:48:53,992 - INFO - Scheduler started
+2024-06-12 12:51:42,346 - INFO - Scheduler has been shut down
+2024-06-12 12:51:45,212 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:51:46,983 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:51:46,992 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:51:47,488 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:51:48,587 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:51:48,722 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-12 12:51:48,723 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-12 12:51:48,723 - INFO - Scheduler started
+2024-06-12 12:55:07,629 - INFO - Scheduler has been shut down
+2024-06-12 12:55:11,168 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:55:14,180 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:55:15,994 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:55:16,004 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:55:16,511 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:55:17,768 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:55:17,930 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-12 12:55:17,931 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-12 12:55:17,931 - INFO - Scheduler started
+2024-06-12 12:55:22,758 - INFO - Scheduler has been shut down
+2024-06-12 12:55:25,237 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:55:27,520 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:55:27,529 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:55:28,281 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:55:30,052 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:55:32,080 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:55:32,088 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:55:32,498 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:55:33,804 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:55:33,926 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-12 12:55:33,926 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-12 12:55:33,927 - INFO - Scheduler started
+2024-06-12 12:57:03,012 - INFO - Scheduler has been shut down
+2024-06-12 12:57:05,889 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:57:09,519 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:57:11,190 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:57:11,203 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:57:11,805 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:57:13,362 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 12:57:13,491 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-12 12:57:13,491 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-12 12:57:13,491 - INFO - Scheduler started
+2024-06-12 13:06:29,749 - INFO - Scheduler has been shut down
+2024-06-12 13:06:32,905 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:06:35,195 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:06:35,205 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:06:35,739 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:06:37,013 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:06:37,156 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-12 13:06:37,156 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-12 13:06:37,157 - INFO - Scheduler started
+2024-06-12 13:07:30,194 - INFO - Scheduler has been shut down
+2024-06-12 13:07:33,682 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:07:35,720 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:07:35,731 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:07:36,279 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:07:37,458 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:07:37,583 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-12 13:07:37,584 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-12 13:07:37,584 - INFO - Scheduler started
+2024-06-12 13:08:10,025 - INFO - Scheduler has been shut down
+2024-06-12 13:08:13,702 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:08:15,587 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:08:15,597 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:08:16,094 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:08:17,198 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:08:17,324 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-12 13:08:17,325 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-12 13:08:17,325 - INFO - Scheduler started
+2024-06-12 13:08:34,595 - INFO - Scheduler has been shut down
+2024-06-12 13:08:37,531 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:08:39,662 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:08:39,673 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:08:40,395 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:08:44,848 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:08:46,598 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:08:46,607 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:08:47,074 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:08:48,343 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:08:48,470 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-12 13:08:48,471 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-12 13:08:48,471 - INFO - Scheduler started
+2024-06-12 13:11:08,721 - INFO - Scheduler has been shut down
+2024-06-12 13:11:12,330 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:11:14,682 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:11:14,692 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:11:15,231 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:11:16,358 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:11:16,486 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-12 13:11:16,486 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-12 13:11:16,486 - INFO - Scheduler started
+2024-06-12 13:11:21,081 - INFO - Scheduler has been shut down
+2024-06-12 13:11:23,474 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:11:25,195 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:11:25,205 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:11:25,694 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:11:27,368 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:11:27,523 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-12 13:11:27,523 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-12 13:11:27,523 - INFO - Scheduler started
+2024-06-12 13:11:50,237 - INFO - Scheduler has been shut down
+2024-06-12 13:11:52,936 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:11:55,335 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:11:55,361 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:11:57,443 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:12:00,531 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:12:02,766 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:12:02,778 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:12:03,309 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:12:04,920 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:12:05,059 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-12 13:12:05,060 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-12 13:12:05,060 - INFO - Scheduler started
+2024-06-12 13:12:15,273 - INFO - Scheduler has been shut down
+2024-06-12 13:12:17,920 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:12:19,655 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:12:19,666 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:12:20,430 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:12:21,652 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:12:21,792 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-12 13:12:21,793 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-12 13:12:21,793 - INFO - Scheduler started
+2024-06-12 13:12:30,818 - INFO - Scheduler has been shut down
+2024-06-12 13:12:33,848 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:12:36,365 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:12:36,383 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:12:37,064 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:12:40,017 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:12:41,629 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:12:41,637 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:12:42,039 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:12:43,054 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-12 13:12:43,157 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-12 13:12:43,158 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-12 13:12:43,158 - INFO - Scheduler started
+2024-06-16 00:09:57,365 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-16 00:09:59,686 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-16 00:09:59,701 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-16 00:10:00,330 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-16 00:10:28,582 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-16 00:10:30,354 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-16 00:10:30,363 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-16 00:10:30,743 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-16 00:10:31,713 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-16 00:10:31,854 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-16 00:10:31,855 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-16 00:10:31,855 - INFO - Scheduler started
+2024-06-16 00:10:39,838 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-16 00:10:41,579 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-16 00:10:41,588 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-16 00:10:41,975 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-16 00:10:43,013 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-16 00:10:43,151 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-16 00:10:43,152 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-16 00:10:43,152 - INFO - Scheduler started
+2024-06-16 00:19:27,050 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-16 00:19:28,937 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-16 00:19:28,950 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-16 00:19:29,465 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-16 00:19:30,555 - WARNING - Python-dotenv could not parse statement starting at line 66
+2024-06-16 00:19:30,691 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-16 00:19:30,691 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-16 00:19:30,692 - INFO - Scheduler started
+2024-06-16 01:10:01,144 - WARNING - Run time of job "login_stat_job (trigger: cron[hour='1', minute='10', second='0'], next run at: 2024-06-16 01:10:00 CST)" was missed by 0:00:01.144052
+2024-06-16 11:11:51,267 - WARNING - Python-dotenv could not parse statement starting at line 62
+2024-06-16 11:11:54,048 - WARNING - Python-dotenv could not parse statement starting at line 62
+2024-06-16 11:11:54,063 - WARNING - Python-dotenv could not parse statement starting at line 62
+2024-06-16 11:11:54,857 - WARNING - Python-dotenv could not parse statement starting at line 62
+2024-06-16 11:11:56,502 - WARNING - Python-dotenv could not parse statement starting at line 62
+2024-06-16 11:11:56,731 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-16 11:11:56,732 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-16 11:11:56,732 - INFO - Scheduler started
+2024-06-16 14:39:52,093 - WARNING - Python-dotenv could not parse statement starting at line 62
+2024-06-16 14:39:54,234 - WARNING - Python-dotenv could not parse statement starting at line 62
+2024-06-16 14:39:54,244 - WARNING - Python-dotenv could not parse statement starting at line 62
+2024-06-16 14:39:54,795 - WARNING - Python-dotenv could not parse statement starting at line 62
+2024-06-16 14:39:55,988 - WARNING - Python-dotenv could not parse statement starting at line 62
+2024-06-16 14:39:56,136 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-06-16 14:39:56,137 - INFO - Added job "login_stat_job" to job store "default"
+2024-06-16 14:39:56,137 - INFO - Scheduler started
+2024-06-16 14:40:29,213 - INFO - Scheduler has been shut down

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello</title>
+</head>
+<body>
+    <input id="id1" type="text" value="ask me a question">
+    <button type="button" onclick=" text_chat()">send</button>
+        <button type="button" onclick="login()">Login</button>
+
+    <br>
+    <textarea id="id2" style="width: 300px; height: 300px"></textarea>
+    <!-- <script src="https://cdn.socket.io/3.1.3/socket.io.min.js"></script> -->
+    <script src="https://cdn.socket.io/4.6.0/socket.io.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script>
+                // const socket = io('
+                // wss://0xbot.org/',
+                function get_unique_id() {
+                            return Date.now().toString(36) + Math.random().toString(36).substr(2);
+
+                }
+                function text_chat() {
+                    let params = {
+                        "id": get_unique_id(),
+                        "kind": "text",
+                        "content":   $('#id1').val(),
+                        "channel_id": "01HCV6ZAP9P5NM3XNPZQHC6H4T"
+                    }
+                    socket.emit('text_chat',JSON.stringify(params))
+                }
+                function login() {
+                    let params = {
+                        "token":"f5453c4b1146a38a26b24ca03e4aeddf90d1a18d419aa0cff01a4add2f312e68"
+                    }
+                      socket.emit('login',(params))
+
+                }
+        const socket = io('ws://127.0.0.1:8000/',
+            {
+                transports: ["websocket"],
+                query: {
+                    token: "ed757588a951c6a816063787df864e31495d7335bd49e4ed780100c660fce926"
+                }
+            });
+                //错误
+        socket.on("message_error", function (data) {
+            $('#id2').val($('#id2').val() + '\n' + $('#id1').val() + '->' + data)
+        });
+        //标准服务器推送
+           socket.on("message", function (data) {
+            $('#id2').val($('#id2').val() + '\n' + $('#id1').val() + '->' + data)
+        });
+           //创建回复消息
+           socket.on("reply_message_created", function (data) {
+            $('#id2').val($('#id2').val() + '\n' + $('#id1').val() + '->' + data)
+        });
+           //流
+           socket.on("text_stream", function (data) {
+            $('#id2').val($('#id2').val() + data)
+        });
+        socket.on("system_notice", function (data) {
+            $('#id2').val($('#id2').val() + data)
+        });
+
+           //回复完成
+         socket.on("message_replied", function (data) {
+            $('#id2').val($('#id2').val() + '\n' + $('#id1').val() + '->' + data)
+        });
+
+
+
+
+
+</script>
+</body>
+</html>
